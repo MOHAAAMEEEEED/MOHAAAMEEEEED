@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohamed and I'm a machine learning engineer</h2>
+<h2 align="left">Hi there, I'm Mohamed</h2>
 
 <p align="left">I am a junior NLP engineer with a strong passion for learning and improving language models. With experience in natural language processing and deep learning, I am constantly exploring new techniques and tools to enhance model performance and develop innovative solutions. I am dedicated to growing my skills and contributing to the advancement of AI-driven language technologies.</p>
 
