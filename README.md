@@ -1,4 +1,4 @@
-<h2 align="left">Hi there, I'm Mohamed</h2>
+<h2 align="left"></h2>
 
 <p align="left">Applied ML / AI Engineer focused on building end-to-end intelligent systems. Skilled in NLP, deep learning, and backend engineering, with experience developing production-ready AI applications from model design to deployment. Passionate about applied NLP, scalable AI systems, and transforming machine learning models into real-world products.</p>
 
