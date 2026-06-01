@@ -1,6 +1,6 @@
 <h2 align="left">Hi there, I'm Mohamed</h2>
 
-<p align="left">I am a junior NLP engineer with a strong passion for learning and improving language models. With experience in natural language processing and deep learning, I am constantly exploring new techniques and tools to enhance model performance and develop innovative solutions. I am dedicated to growing my skills and contributing to the advancement of AI-driven language technologies.</p>
+<p align="left">Applied ML / AI Engineer focused on building end-to-end intelligent systems. Skilled in NLP, deep learning, and backend engineering, with experience developing production-ready AI applications from model design to deployment. Passionate about applied NLP, scalable AI systems, and transforming machine learning models into real-world products.</p>
 
 ###
 
