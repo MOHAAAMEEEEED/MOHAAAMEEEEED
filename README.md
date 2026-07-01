@@ -1,6 +1,6 @@
 <h2 align="left"></h2>
 
-<p align="left">Applied ML / AI Engineer focused on building end-to-end intelligent systems. Skilled in NLP, deep learning, and backend engineering, with experience developing production-ready AI applications from model design to deployment. Passionate about applied NLP, scalable AI systems, and transforming machine learning models into real-world products.</p>
+<p align="left">Applied ML / AI Engineer specializing in NLP and LLM-powered applications. I enjoy building end-to-end AI systems—from data pipelines and model development to scalable backend services and deployment. Passionate about creating practical, production-ready solutions that solve real-world problems.</p>
 
 
 <div align="left">
@@ -21,8 +21,8 @@
   <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="mo.waleedddd@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<a href="mailto:mo.waleedddd@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/mohamed-waleed-b7204321b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
